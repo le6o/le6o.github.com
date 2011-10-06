@@ -1,0 +1,20 @@
+Martin Ledgard
+Twitter: @le6o
+Facebook: http://facebook.com/ledgard
+
+/* Thanks */
+Sir Tim Berners-Lee: http://en.wikipedia.org/wiki/Tim_Berners-Lee
+Steve Jobs: http://en.wikipedia.org/wiki/Steve_Jobs
+Linus Torvalds: http://en.wikipedia.org/wiki/Linus_Torvalds
+
+Brian Jackson: http://www.brianajackson.com
+
+less: http://lesscss.org
+jquery: http://jquery.org
+php: http://www.php.net
+
+netbeans: http://netbeans.org
+git: http://git-scm.com
+github: http://github.com
+
+google: http://google.com
