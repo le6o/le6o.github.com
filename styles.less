@@ -1,16 +1,30 @@
+@grey:#E9E9E9;
+
+@logo:255px;
+@gravatar:128px;
+@gravatar-padding:10px;
+
 body{
-  background:#E9E9E9;
+  background:@grey;
 }
 
 #profile{
-  margin:150px auto;
-  width:100px;
-  padding:5px;
-  border-radius:5px;
-  background:#DDD;
+  margin:@gravatar auto;
+  width:@gravatar + @gravatar-padding + @logo;
+  padding:@gravatar-padding;
+  border-radius:@gravatar-padding;
+  background:darken(@grey, 5%);
+  overflow:hidden;
 
   img{
-    display:block;
-    border-radius:5px;
+    float:left;
+
+    &:first-child{
+      border-radius:@gravatar-padding;
+      margin-right:@gravatar-padding;
+      background:lighten(@grey, 5%);
+      width:@gravatar;
+      height:@gravatar;
+    }
   }
 }
